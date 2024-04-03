@@ -24,7 +24,7 @@ export default class PortfolioPersonalProjects extends LightningElement {
         {
             "name":"Currency Converter App",
             "img":this.CurrencyCalculator,
-            "link":""
+            "link":"https://suresh-portfolio-dev-ed.develop.my.site.com/currency-converter"
         },
         {
             "name":"Weather App",
@@ -34,12 +34,12 @@ export default class PortfolioPersonalProjects extends LightningElement {
         {
             "name":"Survey App",
             "img":this.SurveyApp,
-            "link":"https://suresh-portfolio-dev-ed.develop.my.salesforce.com/survey/runtimeApp.app?invitationId=0KiIR0000004j1n&surveyName=employee_survey&UUID=f3553703-db49-4b18-ad12-56df4829240a"
+            "link":"https://suresh-portfolio-dev-ed.develop.my.site.com/survey/survey/runtimeApp.app?invitationId=0KiIR0000004j1s&surveyName=employee_survey&UUID=bf3d8704-2f85-4249-9ba7-2d3a66dd6321"
         },
         {
             "name":"Note Taking App",
             "img":this.NoteApp,
-            "link":""
+            "link":"https://suresh-portfolio-dev-ed.develop.my.site.com/note-taking-app"
         },
     ]
 
